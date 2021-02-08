@@ -1,6 +1,6 @@
 # Hey, I'm Sarai! 👋
 
-I really enjoy coding and mainly I do it in React JS now. Before, I was in touch with some mobile language as Swift or Java for Android, event a little bit of Kotlin. Also, I code some APIs so I was near Java code aswell.
+I really enjoy coding and mainly I do it in React JS now. Before, I was in touch with some mobile language as Swift or Java for Android, even a little bit of Kotlin. Also, I code some APIs so I was near Java code aswell.
 
 Nowadays, I work at [Liferay](http://liferay.com/) as a Software Engineer making a great Open Source product.
 
