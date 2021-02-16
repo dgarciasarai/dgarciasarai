@@ -13,4 +13,6 @@ Nowadays, I work at [Liferay](http://liferay.com/) as a Software Engineer making
 - I really enjoy watching TV shows and movies 📺
 - I like all kind of music 🎵
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgarciasarai&layout=compact&langs_count=10)
+
 <img src="/images/footer.png" alt="Overview footer image" />
