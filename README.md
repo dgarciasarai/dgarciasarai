@@ -1,5 +1,3 @@
-<img src="/images/header.png" alt="Overview header image" />
-
 # Hey, I'm Sarai! 👋
 
 I really enjoy coding and mainly I do it in React JS now. Before, I was in touch with some mobile language as Swift or Java for Android, even a little bit of Kotlin. Also, I code some APIs so I was near Java code aswell.
@@ -12,5 +10,3 @@ I really enjoy coding and mainly I do it in React JS now. Before, I was in touch
 - I like all kind of music 🎵
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgarciasarai&layout=compact&langs_count=10)
-
-<img src="/images/footer.png" alt="Overview footer image" />
